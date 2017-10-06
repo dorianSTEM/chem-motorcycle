@@ -1,5 +1,5 @@
 {
-  "name": "Chem Game",
+  "name": "chem-game",
   "description": "A Game for Chemistry",
   "main": "main.js",
   "scripts": {
